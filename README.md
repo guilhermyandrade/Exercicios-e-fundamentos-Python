@@ -26,6 +26,12 @@ Repositório de exercícios e desafios de lógica de programação, tratamento e
  - Tratamento de erros
  - Link de acesso: https://www.youtube.com/playlist?list=PLHz_AreHm4dksnH2jVTIVNviIMBVYyFnH
 
+#### Programação Orientada a Objetos
+
+ - Encapsulamento
+ - Herança
+ - Polimorfismo
+
 #### Manipulação e análise de dados
  - Pandas
  - Numpy
